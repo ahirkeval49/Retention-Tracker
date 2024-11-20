@@ -1,3 +1,6 @@
+git add requirements.txt
+git commit -m "Added requirements.txt with seaborn and other dependencies"
+git push origin main
 # Libraries used for the analysis
 import pandas as pd
 import numpy as np
