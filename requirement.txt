@@ -6,6 +6,4 @@ scikit-learn
 statsmodels
 streamlit
 openpyxl
-git add requirements.txt
-git commit -m "Updated requirements.txt with seaborn and other dependencies"
-git push origin main
+
