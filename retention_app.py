@@ -13,7 +13,7 @@ import pickle
 import streamlit as st
 
 # Loading the dataset
-data_path = r"C:\Users\keval\OneDrive\Desktop\UTA dataset.xlsx"
+data_path = r"UTA dataset.xlsxx"
 data = pd.read_excel(data_path)
 
 # Streamlit App Title and Heading
